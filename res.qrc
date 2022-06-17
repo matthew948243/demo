@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/DirConfig.xml</file>
+        <file>src/openfold.png</file>
+        <file>src/qt.jpg</file>
+        <file>bitbug.ico</file>
+        <file>icon.jpg</file>
+    </qresource>
+</RCC>

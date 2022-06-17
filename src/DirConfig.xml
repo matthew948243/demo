@@ -1,0 +1,22 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<root>
+  <F35>
+	<DisplayPath>C:\Users\Administrator\Desktop\KCG\F35KCG\Display</DisplayPath>
+	<SuitePath>C:\Users\Administrator\Desktop\KCG\F35KCG\Suite</SuitePath>
+  </F35>
+  <F22>
+	<DisplayPath>C:\Users\Administrator\Desktop\KCG\F22KCG\Display</DisplayPath>
+	<SuitePath>C:\Users\Administrator\Desktop\KCG\F22KCG\Suite</SuitePath>
+  </F22>
+  <F18>
+	<DisplayPath>C:\Users\Administrator\Desktop\KCG\F18KCG\Display</DisplayPath>
+	<SuitePath>C:\Users\Administrator\Desktop\KCG\F18KCG\Suite</SuitePath>
+  </F18>    
+  <VsConfig>
+	<vsDisplay_Path>E:\SCADE_Project\R2020_SDY_Integration\R2020_SDY_Integration\KCG\DISPLAY</vsDisplay_Path>
+	<vsSuite_Path>E:\SCADE_Project\R2020_SDY_Integration\R2020_SDY_Integration\KCG\SUITE</vsSuite_Path>
+  </VsConfig>
+  <FilePathInPlatform>
+	<scadePath>C:\Users\Administrator\Desktop\OUTEXE</scadePath>
+  </FilePathInPlatform>  
+</root>
